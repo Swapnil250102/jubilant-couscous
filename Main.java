@@ -49,6 +49,5 @@ System.out.print(res[i][j]+"\t");
  
 System.out.println();
 }
- 
 }
 }
