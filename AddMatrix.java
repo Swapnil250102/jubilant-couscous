@@ -1,4 +1,5 @@
-class AddMatrix
+import java.util.*;
+public class AddMatrix
 {
 public static void main(String args[])
 {
